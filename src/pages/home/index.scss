@@ -1,0 +1,13 @@
+.active {
+  color: greenyellow;
+}
+.navClass {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  li {
+    float: left;
+    width: 25%;
+    text-align: center;
+  }
+}
